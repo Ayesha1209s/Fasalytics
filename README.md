@@ -17,7 +17,7 @@ An AI-powered web platform built with **Python Django** that helps monitor crop 
 ## 🛠️ Tech Stack
 
 * **Backend:** Python, Django, Django REST Framework
-* **AI/ML:** (Optional) NumPy, Pandas, OpenCV, PyTorch *(if ML part is enabled)*
+* **AI/ML:**  NumPy, Pandas, OpenCV, PyTorch 
 * **Frontend:** HTML,CSS,JAVASCRIPT
 
 
